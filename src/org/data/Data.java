@@ -10,8 +10,13 @@ public class Data {
 		System.out.println("Bala...");
 	}
 
+	private void m3() {
+		System.out.println("Sam..");
+	}
+
 	public static void main(String[] args) {
 
+		System.out.println("Sam..");
 		System.out.println("Anu..");
 	}
 }
